@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Uksdevlo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @shivu_here
+- 👀 I’m interested in to learn comuper languages
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to collaborate on application developing
+- 📫 shivamjayant9953@gmail.com/9953640798
 
 <!---
 Uksdevlo/Uksdevlo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
