@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shivu_here
 - 👀 I’m interested in to learn comuper languages
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning java,react,
 - 💞️ I’m looking to collaborate on application developing
 - 📫 shivamjayant9953@gmail.com/9953640798
 
